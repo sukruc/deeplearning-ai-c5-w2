@@ -2,6 +2,8 @@
 
 In this repository, you will find deeplerning.ai's Sequence Model Course Week 2 notebooks.
 
+**Note:** Datasets and images are currently unavailable.
+
 ### Contents:
 - *Word Vector Representation*: Operations on word vectors
 - *Emojify*: Enrich your text messages with this algorithm which recognizes your text and add proper emojis.
